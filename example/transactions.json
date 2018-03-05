@@ -1,9 +1,9 @@
 [
     {
-        "currency": "ethereum"
+        "currency": "bitcoin"
     },
     {
-        "currency": "bitcoin"
+        "currency": "ethereum"
     },
     {
         "currency": "litecoin"
