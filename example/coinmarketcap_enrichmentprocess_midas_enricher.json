@@ -5,8 +5,9 @@
 		}
 	},
 	"target": {
-		"json": {
-			"path": "/Users/Patrick/Dropbox/Science/midas/enrichers/enricher-coinmarketcap/example/transactions_enriched.json"
+		"csv": {
+			"path": "/Users/Patrick/Dropbox/Science/midas/enrichers/enricher-coinmarketcap/example/transactions_enriched.csv",
+			"delimiter": ";"
 		}
 	},
 	"enrichers": [

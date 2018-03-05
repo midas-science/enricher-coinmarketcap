@@ -1,0 +1,4 @@
+currency;id;name;symbol;rank;price_usd;price_btc;24h_volume_usd;market_cap_usd;available_supply;total_supply;max_supply;percent_change_1h;percent_change_24h;percent_change_7d;last_updated
+bitcoin;bitcoin;Bitcoin;BTC;1;11533.2;1.0;6382920000.0;194929821450;16901625.0;16901625.0;21000000.0;0.22;3.12;13.4;1520266175
+ethereum;ethereum;Ethereum;ETH;2;861.109;0.0748107;1853420000.0;84389119308.0;98000508.0;98000508.0;null;-0.25;0.44;-0.99;1520266161
+litecoin;litecoin;Litecoin;LTC;5;212.893;0.0184956;604300000.0;11814031119.0;55492812.0;55492812.0;84000000.0;-0.04;1.83;-5.41;1520266151
