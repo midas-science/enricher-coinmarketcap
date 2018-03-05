@@ -1,0 +1,68 @@
+[
+	{
+		"currency": "ethereum",
+		"cmc_data": [
+			{
+				"id": "ethereum",
+				"name": "Ethereum",
+				"symbol": "ETH",
+				"rank": "2",
+				"price_usd": "861.069",
+				"price_btc": "0.0748352",
+				"24h_volume_usd": "1862030000.0",
+				"market_cap_usd": "84384985285.0",
+				"available_supply": "98000259.0",
+				"total_supply": "98000259.0",
+				"max_supply": null,
+				"percent_change_1h": "-0.23",
+				"percent_change_24h": "0.49",
+				"percent_change_7d": "-0.95",
+				"last_updated": "1520265262"
+			}
+		]
+	},
+	{
+		"currency": "bitcoin",
+		"cmc_data": [
+			{
+				"id": "bitcoin",
+				"name": "Bitcoin",
+				"symbol": "BTC",
+				"rank": "1",
+				"price_usd": "11515.8",
+				"price_btc": "1.0",
+				"24h_volume_usd": "6503210000.0",
+				"market_cap_usd": "194635445280",
+				"available_supply": "16901600.0",
+				"total_supply": "16901600.0",
+				"max_supply": "21000000.0",
+				"percent_change_1h": "0.16",
+				"percent_change_24h": "2.95",
+				"percent_change_7d": "13.43",
+				"last_updated": "1520265274"
+			}
+		]
+	},
+	{
+		"currency": "litecoin",
+		"cmc_data": [
+			{
+				"id": "litecoin",
+				"name": "Litecoin",
+				"symbol": "LTC",
+				"rank": "5",
+				"price_usd": "212.882",
+				"price_btc": "0.0185015",
+				"24h_volume_usd": "603598000.0",
+				"market_cap_usd": "11813372800.0",
+				"available_supply": "55492587.0",
+				"total_supply": "55492587.0",
+				"max_supply": "84000000.0",
+				"percent_change_1h": "0.01",
+				"percent_change_24h": "1.81",
+				"percent_change_7d": "-5.39",
+				"last_updated": "1520265250"
+			}
+		]
+	}
+]

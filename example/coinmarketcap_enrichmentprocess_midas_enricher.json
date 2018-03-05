@@ -1,0 +1,23 @@
+{
+	"source": {
+		"json": {
+			"path": "/Users/Patrick/Dropbox/Science/midas/enrichers/enricher-coinmarketcap/example/transactions.json"
+		}
+	},
+	"target": {
+		"json": {
+			"path": "/Users/Patrick/Dropbox/Science/midas/enrichers/enricher-coinmarketcap/example/transactions_enriched.json"
+		}
+	},
+	"enrichers": [
+		{
+			"name": "CoinMarketCap",
+			"path": "/Users/Patrick/Dropbox/Science/midas/enrichers/enricher-coinmarketcap",
+			"config": {
+				"input_parameter": "$..currency",
+				"target_property": "cmc_data"
+			}
+		}
+	],
+	"name": "CoinMarketCap_EnrichmentProcess"
+}
