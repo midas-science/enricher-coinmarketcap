@@ -5,7 +5,7 @@ A CoinMarketCap.com enricher for midas.
 
 #### Example
 
-Enrich any CSV, XLSX or JSON file with data from CoinMarketCap.com.
+Enrich any CSV, XLSX or JSON file with data from CoinMarketCap.com
 
 ###### Source file
 
